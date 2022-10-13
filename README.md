@@ -1,1 +1,1 @@
-# C-Users-Desktop-Python-PARSING_AFTER_SHOK_2
+# PARSING_AFTER_SHOK_2
